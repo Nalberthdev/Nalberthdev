@@ -17,7 +17,7 @@
 📌 **Cursos extras:** CyberSec | Programação em Python e Java | Automação de redes  
 
 ## 💼 Experiência Profissional  
-💻 **Network Operation Center - Pleno - Desktop S.A **  
+💻 **Network Operation Center - Pleno - Desktop S.A**  
 🔹 Monitoramento de tráfego, rompimentos de fibra e incidentes críticos  
 🔹 Diagnóstico e mitigação de falhas em redes de alta disponibilidade  
 🔹 Análise de performance e otimização de sistemas  
