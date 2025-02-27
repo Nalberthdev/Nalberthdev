@@ -26,4 +26,4 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/nalberth-carvalho-8b71102b6/)  
 📧 **audinalberth.desenvolvedor@gmail.com*  
 
-⚡ **Curiosidade:**Amo astrologia🚀 e explorar o desconhecido! Também adoro passar tempo com minha família.  
+⚡ **Curiosidade:** Amo astrologia🚀 e explorar o desconhecido! Também adoro passar tempo com minha família.  
