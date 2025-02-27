@@ -1,12 +1,30 @@
-- 👋 Olá, eu sou @Nalberthdev  
-- 👀 Tenho interesse em tecnologia, programação, redes e cibersegurança.  
-- 🌱 Atualmente, estou aprendendo Python, Java e CyberSec enquanto estudo na Fatec.  
-- 💞️ Busco colaborar em projetos inovadores que unem tecnologia e resolução de problemas.  
-- 📫 Como me contatar: [https://www.linkedin.com/in/nalberth-carvalho-8b71102b6/]  
-- 😄 Pronomes: Ele/Dele  
-- ⚡ Curiosidade: Trabalho à noite monitorando incidentes de rede na Desktop, gosto bastante de astrologia e matemática.  
+# 🚀 Nalberth Carvalho | @Nalberthdev  
 
-<!---
-Nalberthdev/Nalberthdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Profissional de Tecnologia | Redes | Cibersegurança | Desenvolvimento**  
+
+## Sobre mim  
+👋 Olá! Sou um entusiasta da tecnologia com foco em redes, segurança cibernética e desenvolvimento de software. Atualmente, trabalho como Analista de Redes na **Desktop**, onde monitoro e resolvo incidentes de infraestrutura crítica. Meu objetivo é combinar expertise técnica e inovação para criar soluções eficientes e escaláveis.  
+
+## 💡 Interesses e Especializações  
+- 🔹 **Programação:** Python | Java | Automação  
+- 🔹 **Redes & Infraestrutura:** Monitoramento | Diagnóstico de falhas | Segurança de rede  
+- 🔹 **Cibersegurança:** Análise de vulnerabilidades | Defesa ativa  
+- 🔹 **Desenvolvimento Web & Mobile:** Next.js | Aplicações full-stack  
+- 🔹 **Ciência & Tecnologia:** Astronomia | Matemática aplicada | Exploração espacial  
+- 🔹 **Família:** Valorizo muito estar com minha família e aproveitar bons momentos juntos.  
+
+## 📚 Atualmente estudando  
+🎓 **Fatec** – Tecnologia em Redes de Computadores  
+📌 **Cursos extras:** CyberSec | Programação em Python e Java | Automação de redes  
+
+## 💼 Experiência Profissional  
+💻 **Analista de Redes - Desktop**  
+🔹 Monitoramento de tráfego, rompimentos de fibra e incidentes críticos  
+🔹 Diagnóstico e mitigação de falhas em redes de alta disponibilidade  
+🔹 Análise de performance e otimização de sistemas  
+
+## 📬 Como me encontrar  
+🔗 [LinkedIn](https://www.linkedin.com/in/nalberth-carvalho-8b71102b6/)  
+📧 **nalberth@email.com**  
+
+⚡ **Curiosidade:**Amo astrologia🚀 e explorar o desconhecido! Também adoro passar tempo com minha família.  
