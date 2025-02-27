@@ -1,8 +1,8 @@
 # 🚀 Nalberth Carvalho | @Nalberthdev  
 
-🎯 **Profissional de Tecnologia | Redes | Cibersegurança | Desenvolvimento**  
-
 ![mario](https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif)
+
+🎯 **Profissional de Tecnologia | Redes | Cibersegurança | Desenvolvimento**  
 
 ## Sobre mim  
 👋 Olá! Sou um entusiasta da tecnologia com foco em redes, segurança cibernética e desenvolvimento de software. Atualmente, trabalho como Analista de Redes na **Desktop**, onde monitoro e resolvo incidentes de infraestrutura crítica. Meu objetivo é combinar expertise técnica e inovação para criar soluções eficientes e escaláveis.  
