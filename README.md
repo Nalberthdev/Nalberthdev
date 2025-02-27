@@ -9,7 +9,6 @@
 - 🔹 **Programação:** Python | Java | Automação  
 - 🔹 **Redes & Infraestrutura:** Monitoramento | Diagnóstico de falhas | Segurança de rede  
 - 🔹 **Cibersegurança:** Análise de vulnerabilidades | Defesa ativa  
-- 🔹 **Desenvolvimento Web & Mobile:** Next.js | Aplicações full-stack  
 - 🔹 **Ciência & Tecnologia:** Astronomia | Matemática aplicada | Exploração espacial  
 - 🔹 **Família:** Valorizo muito estar com minha família e aproveitar bons momentos juntos.  
 
@@ -25,6 +24,6 @@
 
 ## 📬 Como me encontrar  
 🔗 [LinkedIn](https://www.linkedin.com/in/nalberth-carvalho-8b71102b6/)  
-📧 **nalberth@email.com**  
+📧 **audinalberth.desenvolvedor@gmail.com*  
 
 ⚡ **Curiosidade:**Amo astrologia🚀 e explorar o desconhecido! Também adoro passar tempo com minha família.  
