@@ -13,7 +13,7 @@
 - 🔹 **Família:** Valorizo muito estar com minha família e aproveitar bons momentos juntos.  
 
 ## 📚 Atualmente estudando  
-🎓 **Fatec** – Tecnologia em Redes de Computadores  
+🎓 **Fatec** – Analista e desenvolvimento de sistemas 1/6 
 📌 **Cursos extras:** CyberSec | Programação em Python e Java | Automação de redes  
 
 ## 💼 Experiência Profissional  
