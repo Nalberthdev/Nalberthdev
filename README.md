@@ -15,15 +15,14 @@
 - 🔹 **Família:** Valorizo muito estar com minha família e aproveitar bons momentos juntos.  
 
 ## 📚 Atualmente estudando  
-🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 1/6 
+🎓 **Fatec Franca "Dr Thomaz Novelino" São Paulo** – Analista e desenvolvimento de sistemas 2/6 
 📌 **Cursos extras:** CyberSec | Programação em Python e Java | Automação de redes  
 
 ## 💼 Experiência Profissional  
 💻 **Network Operation Center - Pleno - Desktop S.A**  
 🔹 Monitoramento de tráfego, rompimentos de fibra e incidentes críticos  
 🔹 Diagnóstico e mitigação de falhas em redes de alta disponibilidade  
-🔹 Análise de performance e otimização de sistemas  
-
+🔹 Análise de performance e otimização de sistemas
 ## 📬 Como me encontrar  
 🔗 [LinkedIn](https://www.linkedin.com/in/nalberth-carvalho-8b71102b6/)  
 📧 **audinalberth.desenvolvedor@gmail.com*  
