@@ -50,7 +50,7 @@ Busco constantemente evoluir tecnicamente e unir **engenharia, automação e ino
 ## 🎓 Formação  
 
 **FATEC Franca "Dr. Thomaz Novelino" – São Paulo**  
-Curso: Análise e Desenvolvimento de Sistemas (2º semestre de 6)
+Curso: Análise e Desenvolvimento de Sistemas (3º semestre de 6)
 
 ### 📌 Cursos Complementares  
 - Cybersecurity  
