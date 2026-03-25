@@ -1,96 +1,75 @@
-# 🚀 Nalberth Carvalho | @Nalberthdev  
+# Nalberth Carvalho
 
-**Profissional de Tecnologia | Redes | Cibersegurança | Desenvolvimento**
+**Analista de Redes | Cibersegurança | Desenvolvimento | Automação**
 
 ![mario](https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif)
 
----
+## Sobre mim
 
-## 👨‍💻 Sobre mim  
+Sou profissional de tecnologia com atuação em **redes, cibersegurança, automação e desenvolvimento de software**.
 
-Olá! Sou apaixonado por tecnologia, com foco em **redes, cibersegurança e desenvolvimento de software**.  
+Atualmente trabalho como **Analista de Redes (NOC Pleno) na Desktop S.A.**, com foco em monitoramento de infraestrutura crítica, resposta a incidentes e sustentação de ambientes com alta disponibilidade.
 
-Atualmente atuo como **Analista de Redes (NOC Pleno) na Desktop S.A**, monitorando infraestrutura crítica e garantindo alta disponibilidade dos serviços.  
+Tenho interesse em construir soluções que unam **engenharia, eficiência operacional e segurança**, sempre com foco em melhoria contínua, confiabilidade e evolução técnica.
 
-Busco constantemente evoluir tecnicamente e unir **engenharia, automação e inovação** para criar soluções eficientes, escaláveis e seguras.
+## Competências e áreas de atuação
 
----
+### Programação e automação
+- Python
+- Java
+- Automação de processos
+- Scripts para monitoramento e suporte operacional
 
-## 💡 Áreas de Interesse e Especialização  
+### Redes e infraestrutura
+- Monitoramento de tráfego
+- Diagnóstico e mitigação de falhas
+- Alta disponibilidade
+- Análise de performance
 
-### 🔹 Programação & Automação  
-- Python  
-- Java  
-- Automação de processos  
-- Scripts para monitoramento  
+### Cibersegurança
+- Análise de vulnerabilidades
+- Monitoramento preventivo
+- Boas práticas de defesa e prevenção
 
-### 🔹 Redes & Infraestrutura  
-- Monitoramento de tráfego  
-- Diagnóstico de falhas  
-- Alta disponibilidade  
-- Análise de performance  
+### Dados e bancos de dados
+- Consultas em bancos de dados não relacionais
+- Otimização de queries
+- Organização e análise de dados
 
-### 🔹 Cibersegurança  
-- Análise de vulnerabilidades  
-- Defesa ativa  
-- Monitoramento preventivo  
+## Experiência profissional
 
-### 🔹 Banco de Dados  
-- Consultas em bancos de dados não relacionais  
-- Manutenção e otimização de queries  
-- Análise de dados  
+### Desktop S.A.
+**Analista de Redes (NOC Pleno)**
 
-### 🔹 Ciência & Tecnologia  
-- Astronomia  
-- Matemática aplicada  
-- Exploração espacial  
+- Monitoramento de tráfego e eventos críticos em rede
+- Identificação de rompimentos e degradações de serviço
+- Gestão de incidentes e atuação em ambientes de alta disponibilidade
+- Análise de performance e apoio na estabilidade da operação
 
----
+### Audtax.ai
+**Desenvolvedor Estagiário**
 
-## 🎓 Formação  
+- Manutenção e otimização de consultas em bancos de dados não relacionais
+- Apoio em rotinas de backend
+- Organização e análise de dados para suporte ao produto
+- Contribuição para melhorias de desempenho em consultas e processos
 
-**FATEC Franca "Dr. Thomaz Novelino" – São Paulo**  
-Curso: Análise e Desenvolvimento de Sistemas (3º semestre de 6)
+## Formação
 
-### 📌 Cursos Complementares  
-- Cybersecurity  
-- Programação em Python  
-- Programação em Java  
-- Automação de Redes  
+**FATEC Franca "Dr. Thomaz Novelino"**  
+Análise e Desenvolvimento de Sistemas
 
----
+### Cursos complementares
+- Cybersecurity
+- Programação em Python
+- Programação em Java
+- Automação de redes
 
-## 💼 Experiência Profissional  
+## Interesses
 
-### 💻 Desktop S.A  
-**Network Operation Center (NOC) – Pleno**
+Além da atuação profissional, tenho grande interesse por **astronomia, matemática aplicada e exploração espacial**, temas que reforçam minha curiosidade, capacidade analítica e interesse contínuo por ciência e tecnologia.
 
-- Monitoramento de tráfego e rompimentos de fibra  
-- Gestão de incidentes críticos  
-- Diagnóstico e mitigação de falhas em redes de alta disponibilidade  
-- Análise e otimização de performance  
+## Contato
 
----
-
-### 💻 Desenvolvedor Estagiário – Audtax.ai (4 meses)
-
-- Manutenção e otimização de consultas em **bancos de dados não relacionais**  
-- Análise e organização de dados  
-- Suporte técnico em rotinas de backend  
-- Apoio em melhorias de performance de consultas  
-
----
-
-## 📬 Contato  
-
-🔗 LinkedIn:  
-https://www.linkedin.com/in/nalberth-carvalho-8b71102b6/  
-
-📧 Email:  
-audinalberth.desenvolvedor@gmail.com  
-
----
-
-## ⚡ Curiosidade  
-
-Sou apaixonado por astronomia e pelo desconhecido. Também valorizo muito minha família e acredito que equilíbrio entre vida pessoal e profissional é essencial para evoluir de forma sustentável.
+- LinkedIn: [nalberth-carvalho-8b71102b6](https://www.linkedin.com/in/nalberth-carvalho-8b71102b6/)
+- E-mail: [audinalberth.desenvolvedor@gmail.com](mailto:audinalberth.desenvolvedor@gmail.com)
