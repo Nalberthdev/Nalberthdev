@@ -1,24 +1,29 @@
 # Nalberth Carvalho
 
-**Analista de Redes | Cibersegurança | Desenvolvimento | Automação**
+**Desenvolvedor RPA Pleno | Cibersegurança | Desenvolvimento | Automação**
 
 ![mario](https://user-images.githubusercontent.com/71903343/197866667-e931aa3b-b1c7-417c-b4de-e9405ab890a8.gif)
 
 ## Sobre mim
 
-Sou profissional de tecnologia com atuação em **redes, cibersegurança, automação e desenvolvimento de software**.
+Sou profissional de tecnologia com atuação em **automação de processos (RPA), desenvolvimento de software, redes e cibersegurança**.
 
-Atualmente trabalho como **Analista de Redes (NOC Pleno) na Desktop S.A.**, com foco em monitoramento de infraestrutura crítica, resposta a incidentes e sustentação de ambientes com alta disponibilidade.
+Atualmente atuo como **Desenvolvedor RPA Pleno**, focado na criação de soluções automatizadas que aumentam a eficiência operacional, reduzem erros manuais e otimizam processos de negócio.
 
-Tenho interesse em construir soluções que unam **engenharia, eficiência operacional e segurança**, sempre com foco em melhoria contínua, confiabilidade e evolução técnica.
+Tenho experiência prévia como **Analista de Redes (NOC)**, o que me proporciona uma visão sólida de infraestrutura, monitoramento e ambientes críticos.
+
+Busco constantemente desenvolver soluções que integrem **automação, engenharia e confiabilidade**, sempre com foco em performance, escalabilidade e melhoria contínua.
+
+---
 
 ## Competências e áreas de atuação
 
 ### Programação e automação
 - Python
 - Java
-- Automação de processos
-- Scripts para monitoramento e suporte operacional
+- Automação de processos (RPA)
+- Scripts para automação operacional
+- Integração entre sistemas
 
 ### Redes e infraestrutura
 - Monitoramento de tráfego
@@ -36,6 +41,8 @@ Tenho interesse em construir soluções que unam **engenharia, eficiência opera
 - Otimização de queries
 - Organização e análise de dados
 
+---
+
 ## Experiência profissional
 
 ### Desktop S.A.
@@ -43,16 +50,18 @@ Tenho interesse em construir soluções que unam **engenharia, eficiência opera
 
 - Monitoramento de tráfego e eventos críticos em rede
 - Identificação de rompimentos e degradações de serviço
-- Gestão de incidentes e atuação em ambientes de alta disponibilidade
-- Análise de performance e apoio na estabilidade da operação
+- Gestão de incidentes em ambientes de alta disponibilidade
+- Análise de performance e suporte à operação
 
 ### Audtax.ai
 **Desenvolvedor Estagiário**
 
-- Manutenção e otimização de consultas em bancos de dados não relacionais
+- Manutenção e otimização de consultas em bancos de dados
 - Apoio em rotinas de backend
-- Organização e análise de dados para suporte ao produto
-- Contribuição para melhorias de desempenho em consultas e processos
+- Organização e análise de dados
+- Melhoria de desempenho em processos e consultas
+
+---
 
 ## Formação
 
@@ -63,11 +72,15 @@ Análise e Desenvolvimento de Sistemas
 - Cybersecurity
 - Programação em Python
 - Programação em Java
-- Automação de redes
+- Automação de processos e redes
+
+---
 
 ## Interesses
 
-Além da atuação profissional, tenho grande interesse por **astronomia, matemática aplicada e exploração espacial**, temas que reforçam minha curiosidade, capacidade analítica e interesse contínuo por ciência e tecnologia.
+Tenho grande interesse por **astronomia, matemática aplicada e exploração espacial**, áreas que fortalecem minha capacidade analítica e curiosidade científica.
+
+---
 
 ## Contato
 
