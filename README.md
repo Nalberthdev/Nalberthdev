@@ -18,6 +18,13 @@ Busco constantemente desenvolver soluções que integrem **automação, engenhar
 
 ## Competências e áreas de atuação
 
+### Certificações:
+-Zabbix Certified User (CU-2606-286)
+-https://www.zabbix.com/certificate/?firstname=Audinalbeth+Mendes+Carvalho&lastname=Mendes+Carvalho&certificate=CU-2606-286
+
+-Artificial Intelligence Fundamentals
+-https://www.credly.com/badges/b51da943-51fc-4098-b490-f86cba76bdab/linked_in_profile
+
 ### Programação e automação
 - Python
 - Java
@@ -44,6 +51,14 @@ Busco constantemente desenvolver soluções que integrem **automação, engenhar
 ---
 
 ## Experiência profissional
+
+### Desktop S.A.
+**Desenvolvedor PL**
+
+- Desenvolvimento de aplicações web com Next.js, React, TypeScript e Node.js
+- Desenvolvimento de APIs REST e microsserviços utilizando Node.js, Python (Flask/FastAPI) e integração com bancos de dados PostgreSQL, Supabase e MongoDB
+- Automação de processos, integrações e coleta de dados com Python, n8n, Selenium e APIs REST
+- Desenvolvimento de dashboards, visualizações de dados e soluções para monitoramento utilizando Grafana, Apache ECharts e SQL
 
 ### Desktop S.A.
 **Analista de Redes (NOC Pleno)**
