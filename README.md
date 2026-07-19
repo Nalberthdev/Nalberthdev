@@ -8,7 +8,7 @@
 
 Sou profissional de tecnologia com foco em **desenvolvimento de software, automação e engenharia de sistemas**.
 
-Atualmente atuo como **Desenvolvedor RPA Pleno**, desenvolvendo aplicações, automações e integrações que aumentam a eficiência operacional, eliminam tarefas repetitivas e tornam os processos mais escaláveis e confiáveis.
+Atualmente atuo como **Desenvolvedor**, desenvolvendo aplicações, automações e integrações que aumentam a eficiência operacional, eliminam tarefas repetitivas e tornam os processos mais escaláveis e confiáveis.
 
 Tenho experiência no desenvolvimento de **aplicações web, APIs REST, automações com Python, Node.js e RPA**, além de atuar com bancos de dados, integração de sistemas e criação de dashboards para análise de dados.
 
