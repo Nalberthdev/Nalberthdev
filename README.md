@@ -6,13 +6,16 @@
 
 ## Sobre mim
 
-Sou profissional de tecnologia com atuação em **automação de processos (RPA), desenvolvimento de software, redes e cibersegurança**.
+Sou profissional de tecnologia com foco em **desenvolvimento de software, automação e engenharia de sistemas**.
 
-Atualmente atuo como **Desenvolvedor RPA Pleno**, focado na criação de soluções automatizadas que aumentam a eficiência operacional, reduzem erros manuais e otimizam processos de negócio.
+Atualmente atuo como **Desenvolvedor RPA Pleno**, desenvolvendo aplicações, automações e integrações que aumentam a eficiência operacional, eliminam tarefas repetitivas e tornam os processos mais escaláveis e confiáveis.
 
-Tenho experiência prévia como **Analista de Redes (NOC)**, o que me proporciona uma visão sólida de infraestrutura, monitoramento e ambientes críticos.
+Tenho experiência no desenvolvimento de **aplicações web, APIs REST, automações com Python, Node.js e RPA**, além de atuar com bancos de dados, integração de sistemas e criação de dashboards para análise de dados.
 
-Busco constantemente desenvolver soluções que integrem **automação, engenharia e confiabilidade**, sempre com foco em performance, escalabilidade e melhoria contínua.
+Minha experiência anterior como **Analista de Redes (NOC)** complementa minha atuação como desenvolvedor, proporcionando uma base sólida em infraestrutura, monitoramento, observabilidade, alta disponibilidade e resolução de problemas em ambientes críticos.
+
+Tenho como objetivo criar soluções de software robustas, escaláveis e de alta qualidade, aplicando boas práticas de arquitetura, automação, engenharia de software e integração de sistemas para entregar valor ao negócio.
+
 
 ---
 
